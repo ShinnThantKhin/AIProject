@@ -1,0 +1,4 @@
+fma_metadata/features.csv filter=lfs diff=lfs merge=lfs -text
+fma_metadata/tracks.csv filter=lfs diff=lfs merge=lfs -text
+fma_metadata/raw_tracks.csv filter=lfs diff=lfs merge=lfs -text
+fma_metadata/raw_features.csv filter=lfs diff=lfs merge=lfs -text
