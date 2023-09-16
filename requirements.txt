@@ -2,3 +2,6 @@ pandas
 scikit_learn
 streamlit
 xgboost
+python
+pickle
+
